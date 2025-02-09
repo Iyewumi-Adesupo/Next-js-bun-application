@@ -9,11 +9,11 @@ Then run docker-compose up --build
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-To guide you in installin bun:
+To guide you in installing bun:
 
 https://bun.sh/guides/ecosystem/nextjs
 
-To guide you with buildong Dockerfile and Compose file:
+To guide you with building Dockerfile and Compose file:
 
 https://shipyard.build/blog/nextjs-with-docker/
 
